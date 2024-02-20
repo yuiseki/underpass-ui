@@ -3,6 +3,7 @@ import API from "../api";
 
 const statusLabel = {
   badgeom: "Un-squared",
+  badvalue: "Bad value",
 };
 
 function UnderpassValidationStats({
